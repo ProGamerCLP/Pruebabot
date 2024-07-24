@@ -1,0 +1,521 @@
+{
+  "Actualizacion 11": {
+    "title": "🌟 ¡Saludos a todos, comunidad de Renacer RP! 🌟",
+    "description": "Estamos emocionados de anunciarles las últimas mejoras y novedades que hemos preparado con mucho cariño para mejorar su experiencia en el servidor:\n\n**Mejoras en los puntos de trabajo:** 🏢\nHemos dedicado tiempo a afinar los puntos de trabajo para que la experiencia laboral sea más fluida y gratificante. ¡Ahora podrás sumergirte aún más en la vida laboral de Los Santos!\n\n**Corrección de errores: **🐞\nHemos identificado y solucionado varios bugs relacionados con los trabajos, garantizando así una experiencia de juego más estable y sin contratiempos.\n\n**Nuevos trabajos para civiles: **👷‍♂️🌲🗑️\n¡Prepárate para explorar emocionantes oportunidades laborales! Desde trabajar como constructor, leñador hasta recolector de basura, hemos agregado una variedad de trabajos para que los civiles se sumerjan en la economía de Renacer RP.\n\n**Interacciones optimizadas:** ⚙️\nHemos optimizado las interacciones con el entorno para una jugabilidad más suave y fluida. ¡Ahora podrás disfrutar de cada momento sin preocuparte por problemas de rendimiento!\n\n**Nuevo script de mecánicos: **🔧🚗\nLos aficionados a la mecánica estarán encantados con nuestro nuevo script diseñado específicamente para ellos. ¡Prepárate para sumergirte en el mundo del tuning y la reparación de vehículos como nunca antes!\n\n**Gimnasio con estadísticas: **💪📊\n¡Mantén a tu personaje en forma y listo para cualquier desafío con nuestro nuevo gimnasio! Podrás mejorar tus estadísticas físicas y alcanzar nuevos niveles de rendimiento.\n\nEstas son solo algunas de las emocionantes actualizaciones que hemos preparado para ustedes. ¡Manténganse **atentos** porque pronto habrá más sorpresas y contenido emocionante en Renacer RP!\n\n**¡Gracias por ser parte de nuestra comunidad y esperamos que disfruten al máximo de estas nuevas adiciones!**",
+    "color": 32768
+  },
+  "Info donaciones": {
+    "title": "Información donaciones",
+    "description": "**¿Cómo realizar una donación?**\n• Para realizar una donación deberás abrir un ticket en https://discord.com/channels/1202669089823129630/1207161955551551559 para que un administrador te de la información correspondiente y te apoye en el proceso del mismo.\n\n**Información Importante**\n• Ninguna donación es reembolsable.\n• En caso de CK, todos los artículos adquiridos mediante Renacer Coins serán reembolsados, permitiéndoles así realizar nuevas compras de acuerdo a su preferencia."
+  },
+  "dispobandas": {
+    "title": "Disponibilidad de Bandas",
+    "description": "**`• Los Ballas                                            🟢 `**\n**`• Familie                                               🟢 `**\n**`• Marabuntas                                            🟢 `**\n**`• Los Aztecas                                           🟢 `**\n**`• Los Vagos                                             🟢 `**\n**`• Mc Lost                                               🟢 `**",
+    "image": {
+      "url": "https://static.wikia.nocookie.net/esgta/images/1/19/MiembrosBallasV2.jpg"
+    }
+  },
+  "Infobandas": {
+    "title": "**Información Bandas**",
+    "description": "Para proceder con la postulación o compra de una banda, ya sea gratuita o custom, se requiere la apertura de un ticket en el canal https://discord.com/channels/1202669089823129630/1207820986896875520. \n\nAntes de iniciar este proceso, es necesario asegurarse de cumplir con los requisitos siguientes:\n\n✦ Historia detallada sobre la fundación de la banda.\n✦ Historia individual de cada miembro perteneciente a la banda.\n✦ Mínimo de cuatro miembros para iniciarla.\n✦ Comprensión y conocimiento completo de la normativa vigente."
+  },
+  "Requisitos": {
+    "title": "Requisitos para ser staff",
+    "description": "- Llevar al menos, 2 semanas en el servidor.\n- Tener un mínimo de 1000 horas en fivem.\n- Disponibilidad horaria rotativa.\n- Saber trabajar bajo presión.\n- Conocimiento básico de las normativas del servidor.\n- Tener ganas de aprender.",
+    "author": {
+      "name": "Si cumples los requisitos, abre un ticket!"
+    }
+  },
+  "Cerradas postus": {
+    "title": "Preselección staff",
+    "description": "Las postulaciones de preselección estan cerradas en este momento 🔴. Os avisaremos por este canal cuando cambie el estado! 🧡"
+  },
+  "socialmediaig": {
+    "title": "Síguenos en Instagram!",
+    "description": "🌟 Sigue nuestro perfil para estar al tanto de las últimas noticias, actualizaciones y contenido exclusivo.\n\n[Haz click aquí para ir a nuestro perfil](https://www.instagram.com/renacer.rp/)",
+    "thumbnail": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png"
+    },
+    "footer": {
+      "text": "Powered by RenacerRP.",
+      "icon_url": "https://media.discordapp.net/attachments/1202669420971827311/1211751717826334770/LOGO_SIN_FONDO_CON_SOMBRA.png"
+    }
+  },
+  "panelsoportegen": {
+    "title": "Soporte General de RenacerRP",
+    "thumbnail": {
+      "url": "https://images-ext-2.discordapp.net/external/3n54ktfJ00OPunqfA_dyYHOcMdoGe0Hl2nwwMbv07Z4/https/i.ibb.co/VQwmtmB/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "description": "Bienvenido al sistema de tickets de **RenacerRP** pulsa el botón de abajo para crear un ticket.\n\n📌Asegúrese de seleccionar la opción correspondiente a su reporte antes de abrir el ticket para poder ofrecer un soporte más eficiente.\n\n📌En caso de que querer reportar algún rol, deberá de contar con evidencia.",
+    "footer": {
+      "text": "Powered by El Renacer.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "msgaptgen": {
+    "title": "Bienvenid@!",
+    "description": "En breves un miembro del equipo de soporte se pondrá en contacto contigo.\n\nRecuerda proporcionarnos toda la información para resolver tu ticket a la brevedad posible.",
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Powered by El Renacer.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "PStaffRED": {
+    "title": "Postulación Staff",
+    "footer": {
+      "text": "Powered by El Renacer.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    },
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "description": "**Estado**:\n🔴 - Cerradas\n\nLa postulación para la preselección del equipo staff actualmente se encuentran cerradas, mantente atento a este canal para estar informado cuando se abran las postulaciones."
+  },
+  "PStaffON": {
+    "title": "Postulación Staff",
+    "footer": {
+      "text": "Powered by El Renacer.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    },
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "description": "**Estado:**\n🟢 - Abiertas\n\nLa postulación para la preselección del equipo staff actualmente se encuentran abiertas, abre un ticket en el canal correspondiente para comenzar con tu postulación."
+  },
+  "BandaTickets": {
+    "title": "Postulación Banda",
+    "description": "Antes de abrir un ticket para postular a una banda, asegúrate de complir con los requisitos mencionados en el canal de https://discord.com/channels/1202669089823129630/1207107250733191210.\n\nAl momento de abrir el ticket envíanos toda la información requerida, de lo contrario será cerrado.",
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Powered by El Renacer.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "BandaTickets1": {
+    "title": "Postulación Banda",
+    "description": "Antes de abrir un ticket para postular a una banda, asegúrate de complir con los requisitos mencionados en el canal de https://discord.com/channels/1202669089823129630/1207107250733191210.\n\nAl momento de abrir el ticket envíanos toda la información requerida, de lo contrario será cerrado.",
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Powered by El Renacer.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    },
+    "color": 3389696
+  },
+  "SERVERON": {
+    "title": "¡Server ON!",
+    "description": "Nuestro servidor ha terminado de reiniciarse, actualmente ya se vuelve a encontrar **en línea**!",
+    "image": {
+      "url": "https://i.postimg.cc/hG3MTzx6/SERVER-ON.gif"
+    },
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Powered by El Renacer.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "servon": {
+    "title": "¡Server ON!",
+    "description": "Nuestro servidor ha terminado de reiniciarse, actualmente ya se vuelve a encontrar **en línea**!",
+    "image": {
+      "url": "https://i.postimg.cc/hG3MTzx6/SERVER-ON.gif"
+    },
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Powered by El Renacer.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    },
+    "color": 16777215
+  },
+  "pagospayp": {
+    "title": "Pagos - Equipo Administrativo",
+    "description": "Para proceder con la recepción de tu fracción de pago por parte de la administración, te solicitamos que completes el formulario. Es importante destacar que, en caso de no llenarlo, no será posible efectuar la reclamación del pago, ya que no contamos con tus datos de PayPal.\n\n▸Nombre:\n▸Correo electrónico:",
+    "thumbnail": {
+      "url": "https://images-ext-1.discordapp.net/external/IaS5wj60a2-znjPuXScUsfIoOtSnqqBhCf9pKw_USsE/https/i.pinimg.com/originals/64/d5/37/64d537f30248c10b7618c01a4d267204.gif?width=468&height=468"
+    }
+  },
+  "normativastaff": {
+    "title": "Normativa Staff",
+    "description": "Todo miembro del equipo staff deberá tener conocimiento de la normativa, quién incumpla dicha normativa será sancionado.\n\nNormativa: [Click Aquí](https://docs.google.com/document/d/1xgolppuGCT8CTAHM1LDvn8TQpwadUHviMWHwKbIeZrg/edit)",
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Powered by El Renacer.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "normativageneral": {
+    "title": "Normativa General de RenacerRP",
+    "description": "Para asegurar una experiencia óptima en el juego, es necesario leer y comprender las normativas de la ciudad. Si surge alguna duda relacionada con el servidor, te invitamos a abrir un ticket de soporte.\n\n**Oprime el botón para abrir la normativa.**\n[Click aquí](https://docs.google.com/document/d/1l-C4X5jYlDBqGYN8-CyqNzCzhNSb2QbE_ueivw-bbQ4)",
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Powered by El Renacer.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    },
+    "image": {
+      "url": "https://i.postimg.cc/RFtGwXnj/PORTADA-DISCORD.gif"
+    }
+  },
+  "normativa prueba": {
+    "title": "NORMATIVAS RENACER RP",
+    "description": "- **1 NORMATIVA GENERAL:** <a:1706redcrownfire:1210394375431913522>\nhttps://docs.google.com/document/d/1l-C4X5jYlDBqGYN8-CyqNzCzhNSb2QbE_ueivw-bbQ4/edit\n\n\n- **2 NORMATIVA BANDAS Y MAFIAS:** <a:2949rob:1209660068316839956>\nhttps://docs.google.com/document/d/1KxLiwZqxSKXhlctgfaC5uiegok8Ztdrzir-ZGFyoQbo/edit\n\n- **3 NORMATIVA POLICIA:** <a:4854_pepe_police:1209668000744218634>\nhttps://docs.google.com/document/d/1FbiIYwGvF0gQq0_XK-tIRp-otZ9Gr7025NGFEGv1clQ/edit\n\n- **4 NORMATIVA EMS:** <:9478mediclogodepartementecarlate:1211320271202422835>\nhttps://docs.google.com/document/d/1KUYtzeqL0F7dJPkF3gSc_khTeO3rOnDDQ2BMPgG0LXk/edit\n\n**- 5 NORMATIVA NEGOCIOS: **<:9186pepemoneybag:1209660037367205909>\nhttps://docs.google.com/document/d/1CThTP9RcBQj2rMYo-RCLuxDjF-sPob4Zu9IppwqwYak/edit",
+    "thumbnail": {
+      "url": "https://media.discordapp.net/attachments/1144043618378711081/1209904583250546749/BANNER_CARGA_FIVEM.gif?ex=65fb1373&is=65e89e73&hm=dc2d7313c40d4ff239e04e425ea022ad1798277a8a0d33da48cf65a738a8a8e9&="
+    },
+    "image": {
+      "url": "https://media.discordapp.net/attachments/1144043618378711081/1209904583250546749/BANNER_CARGA_FIVEM.gif?ex=65fb1373&is=65e89e73&hm=dc2d7313c40d4ff239e04e425ea022ad1798277a8a0d33da48cf65a738a8a8e9&="
+    }
+  },
+  "FACCIONES DISCORD": {
+    "title": "FACCIONES RENACER RP",
+    "image": {
+      "url": "https://media.discordapp.net/attachments/1144043618378711081/1209904583250546749/BANNER_CARGA_FIVEM.gif?ex=65fb1373&is=65e89e73&hm=dc2d7313c40d4ff239e04e425ea022ad1798277a8a0d33da48cf65a738a8a8e9&="
+    },
+    "description": "- ** DISCORD ORG. CRIMINAL RENACER RP:**\n[Click Aqui](https://discord.gg/ewx27he9)\n\n- **DISCORD POLICIA RENACER RP:**\n[Click Aqui](https://discord.gg/RGyaPn2m)\n\n- **DISCORD EMS RENACER RP:**\n[Click Aqui](https://discord.gg/Mw4Z8g8d)\n\n- **DISCORD NEGOCIOS:**\n[Click Aqui](https://discord.gg/pVVQeryQ)"
+  },
+  "bandas disponibles": {
+    "title": "BANDAS DISPONIBLES DE RENACER RP",
+    "description": "✅ ⌈ ᴀᴢᴛᴇᴄᴀꜱ ⌋\n✅ ⌈ ʙᴀʟʟᴀꜱ ⌋\n✅⌈ ꜰᴀᴍɪʟɪᴇꜱ ⌋\n✅​​ ⌈ ᴍᴀʀᴀʙᴜɴᴛᴀ ⌋\n✅ ⌈ ᴠᴀɢᴏꜱ ⌋\n✅ ⌈ ᴍᴄʟᴏꜱᴛ ⌋",
+    "author": {
+      "name": "Renacer RP"
+    },
+    "image": {
+      "url": "https://media.discordapp.net/attachments/1118038767106797648/1209982339464040518/PERFIL.gif?ex=65fb5bde&is=65e8e6de&hm=ba718c7799a148ac5ea9ad98b2b879df826b7e871dd3e2e2915ef231129655ee&="
+    },
+    "thumbnail": {
+      "url": "https://media.discordapp.net/attachments/1118038767106797648/1209982339464040518/PERFIL.gif?ex=65fb5bde&is=65e8e6de&hm=ba718c7799a148ac5ea9ad98b2b879df826b7e871dd3e2e2915ef231129655ee&="
+    },
+    "footer": {
+      "text": "Bandas disponibles Renacer RP"
+    },
+    "color": 16711680
+  },
+  "POSTU BANDAS": {
+    "title": "BANDAS DISPONIBLES DE RENACER RP",
+    "footer": {
+      "text": "Bandas disponibles Renacer RP"
+    },
+    "color": 16711680,
+    "description": "<a:1446greenverify:1209663856943702146>  [ᴀᴢᴛᴇᴄᴀꜱ]\n<a:1446greenverify:1209663856943702146> [ʙᴀʟʟᴀꜱ]\n<a:1446greenverify:1209663856943702146> [ꜰᴀᴍɪʟɪᴇꜱ]\n<a:1446greenverify:1209663856943702146> [ᴍᴀʀᴀʙᴜɴᴛᴀ]\n<a:1446greenverify:1209663856943702146> [ᴍᴄʟᴏꜱᴛ]\n\n[Click Aqui para postular](https://discord.com/channels/1202669089823129630/1216760172115005591)",
+    "image": {
+      "url": "https://media.discordapp.net/attachments/1118038767106797648/1209982339464040518/PERFIL.gif?ex=65fb5bde&is=65e8e6de&hm=ba718c7799a148ac5ea9ad98b2b879df826b7e871dd3e2e2915ef231129655ee&"
+    }
+  },
+  "POSTU BANDAS Ticket": {
+    "title": "TICKETS POSTULACIONES BANDAS",
+    "description": "- *Historia detallada sobre la fundación de la banda.*\n- *Historia individual de cada miembro perteneciente a la banda.*8\n- *Mínimo de 4 o máximo 6 miembros para iniciarla.*\n- *Comprensión y conocimiento completo de la normativa vigente.*\n- *Todo esto en un pdf.*\n\n***Tener en cuenta que la banda sera entregada a la mejor historia***",
+    "color": 16711680,
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "By Renacer RP Bandas",
+      "icon_url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    }
+  },
+  "LSPD RENACER": {
+    "title": "POSTULACIONES LSPD",
+    "description": "- *Hola buenas, los que vayan a postular a la Faccion de la LSPD que por favor envien mas completo las postulaciones y bien explicadas para facilitar la informacion necesaria.*\n\n*Gracias por leer, Y buen dia.*",
+    "footer": {
+      "text": "By Renacer RP - LSPD",
+      "icon_url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "color": 255
+  },
+  "EMS RENACER": {
+    "title": "POSTULACIONES EMS",
+    "description": "- *Hola buenas, los que vayan a postular a la Faccion de la EMS que por favor envien mas completo las postulaciones y bien explicadas para facilitar la informacion necesaria.*\n\n*Gracias por leer, Y buen dia.*",
+    "color": 16765404,
+    "footer": {
+      "text": "By Renacer RP - EMS",
+      "icon_url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    }
+  },
+  "STAFF RENACER": {
+    "title": "POSTULACION STAFF",
+    "color": 16711680,
+    "description": "**Estado:**\n🟢-Abiertas\n\n*Las prepostulaciones del equipo del staff estan abiertas, los que pasen se les dejara en reserva hasta la apertura del servidor.*",
+    "footer": {
+      "text": "Powered By Renacer RP",
+      "icon_url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    }
+  },
+  "ticketsg": {
+    "title": "Soporte General de RenacerRP.",
+    "description": "Bienvenido al sistema de tickets de RenacerRP pulsa el botón de abajo para crear un ticket.\n\n📌Asegúrese de seleccionar la opción correspondiente a su reporte antes de abrir el ticket para poder ofrecer un soporte más eficiente.\n\n📌En caso de que querer reportar algún rol, deberá de contar con evidencia.",
+    "thumbnail": {
+      "url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Powered by El Renacer.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "PostuStaff": {
+    "title": "Bienvenid@!",
+    "description": "Apreciamos profundamente su interés en formar parte de nuestro equipo de staff y su disposición para contribuir a la comunidad.\n\nEs fundamental entender que el acto de postular no garantiza automáticamente un lugar dentro del equipo. Este proceso inicial lo posicionará en una lista de candidatos preseleccionados para eventualmente integrarse al equipo. En el caso de que supere satisfactoriamente las evaluaciones correspondientes, quedará en condición de espera hasta la apertura del servidor. Será contactado directamente si requerimos de su colaboración.\n\nPor favor, complete el siguiente formulario para iniciar el proceso de su postulación:\n\n· Nombre:\n· Edad OOC:\n· Experiencia previa en roles de staff:\n· Horas disponibles para dedicar diariamente:\n· Ubicación geográfica:\n· Motivación para ser parte del staff:\n· Fortalezas y áreas de mejora personales:\n· Horas jugadas en FiveM (adjuntar fotografía):\n· URL de perfil en Steam:",
+    "color": 16711680,
+    "thumbnail": {
+      "url": "https://images-ext-1.discordapp.net/external/MtLAoov8azYPPkECViRLwsjipsjzcNl72lQ6bzzG7Q4/https/images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Powered by RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "despedidapostustaff": {
+    "title": "¡Muchas Gracias!",
+    "description": "Valoramos enormemente su interés en integrarse a nuestro equipo de staff y su voluntad de aportar a la comunidad.\n\nSi su evaluación resulta positiva, nos comunicaremos con usted para coordinar su colaboración cuando sea necesaria.\n\nA continuación, le proporcionamos el \"transcript\" de su ticket. Para consultar el contenido, deberá descargarlo y posteriormente abrir el archivo para revisar el desenlace de su solicitud.",
+    "thumbnail": {
+      "url": "https://images-ext-1.discordapp.net/external/MtLAoov8azYPPkECViRLwsjipsjzcNl72lQ6bzzG7Q4/https/images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Equipo staff del RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    },
+    "color": 16711680
+  },
+  "ticketbandamafia": {
+    "title": "Postulación Banda/Mafia",
+    "description": "Antes de abrir un ticket, asegúrese de tener los siguientes requisitos:\n\n- *Historia detallada sobre la fundación de la banda.*\n- *Historia individual de cada miembro perteneciente a la banda.*\n- *Mínimo de 4 o máximo 6 miembros para iniciarla.*\n- *Comprensión y conocimiento completo de la normativa vigente.*\n\nTodos los puntos anteriores deberán ser presentados en un formato PDF acompañados de una presentación.",
+    "thumbnail": {
+      "url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Powered by RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    },
+    "color": 16711680
+  },
+  "POSTU RENACER 1": {
+    "title": "BANDAS DISPONIBLES DE RENACER RP",
+    "footer": {
+      "text": "Bandas disponibles Renacer RP"
+    },
+    "color": 16711680,
+    "description": "<a:ex:1217850860680515595> [ᴀᴢᴛᴇᴄᴀꜱ]\n<a:ex:1217850860680515595> [ʙᴀʟʟᴀꜱ]\n<a:ex:1217850860680515595> [ꜰᴀᴍɪʟɪᴇꜱ]\n<a:1446greenverify:1209663856943702146> [ᴍᴀʀᴀʙᴜɴᴛᴀ]\n<a:ex:1217850860680515595> [ᴍᴄʟᴏꜱᴛ]\n\n[Click Aqui para Postular](https://discord.com/channels/1202669089823129630/1216760172115005591)",
+    "image": {
+      "url": "https://media.discordapp.net/attachments/1118038767106797648/1209982339464040518/PERFIL.gif?ex=65fb5bde&is=65e8e6de&hm=ba718c7799a148ac5ea9ad98b2b879df826b7e871dd3e2e2915ef231129655ee&"
+    }
+  },
+  "bugapertura": {
+    "title": "Bienvenid@!",
+    "description": "Lamentamos que estés experimentando inconvenientes en RenacerRP.\n\nPara ayudarte a resolver este problema lo antes posible, por favor completa la siguiente información:\n\n- Descripción del bug\n- Capturas de pantalla/video (si es posible)",
+    "color": 16711680,
+    "footer": {
+      "text": "Powered by RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    },
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    }
+  },
+  "banapertura": {
+    "title": "Bienvenid@!",
+    "color": 16711680,
+    "description": "Ha iniciado un procedimiento de revisión de baneo. Para proceder, es necesario que rellene la información solicitada a continuación:\n\n- ID de Baneo\n- Fecha del baneo\n- Razón del baneo\n- URL de su perfil en Steam\n\nSu caso será evaluado y se le dará una respuesta a la brevedad posible.",
+    "footer": {
+      "text": "Powered by RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    },
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    }
+  },
+  "ckapertura": {
+    "title": "Bienvenid@!",
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "color": 16711680,
+    "description": "Para comenzar con el proceso de CK/PKT de su personaje, es necesario completar la siguiente plantilla:\n\n- Nombre del personaje (actual)\n- CK o PKT\n- Razón\n- Trabajos (incluya su rango)\n- Organización Criminal (omitir si no aplica)\n\nSu solicitud de CK/PKT será revisada para su aprobación. Una vez autorizado, el ticket permanecerá pendiente hasta recibir la prueba visual del CK/PKT. Posterior a eso, el equipo staff se encargará de realizarlo de máquina.",
+    "footer": {
+      "text": "Powered by ElRenacer.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "ocapertura": {
+    "title": "Bienvenid@!",
+    "description": "Estás a un paso de formar parte de la historia del crimen en nuestra ciudad. Para que podamos evaluar tu postulación, necesitamos que completes el siguiente formulario:\n\n- Historia detallada de cómo se fundó la organización\n- Objetivos a cumplir en la ciudad\n- Relación detallada con los ciudadanos\n- Historia de cada miembro\n- URL de Steam de todos los miembros\n\nSe te dará respuesta a la brevedad posible.",
+    "color": 16711680,
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Powered by RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "quejaapertura": {
+    "title": "Bienvenid@!",
+    "footer": {
+      "text": "Powered by RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    },
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "color": 16711680,
+    "description": "Si has tenido una mala experiencia dentro del servidor, queremos saberlo para aplicar la respectiva sanción. \n\nDescribe la situación con el mayor detalle posible para poder atender tu queja adecuadamente.\n\n- Queja\n- Prueba visual (video)\n\nUn staff te dará respuesta a la brevedad posible."
+  },
+  "dudasocapertura": {
+    "title": "Bienvenid@!",
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Powered by RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    },
+    "description": "Si tienes preguntas sobre cómo iniciar o gestionar tu postulación para una organización criminal, estás en el lugar adecuado. Por favor, detalla tus dudas para que podamos ofrecerte la información más precisa y ayudarte a avanzar en el proceso.",
+    "color": 16711680
+  },
+  "sgcierre": {
+    "title": "¡Muchas Gracias!",
+    "description": "Esperamos haber sido de ayuda en tu consulta o problema. Si requieres asistencia adicional, no dudes en contactarnos nuevamente.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu solicitud.",
+    "color": 16711680,
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Equipo Staff del RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "bugcierre": {
+    "title": "¡Muchas Gracias!",
+    "description": "Gracias por ayudarnos a mejorar RenacerRP reportando este inconveniente.\n\nTu reporte contribuye significativamente a la calidad de nuestro servidor y será atendido por nuestro equipo técnico.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu ticket.",
+    "color": 16711680,
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Equipo Staff del RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "sgcierre1": {
+    "title": "Nuevo embed"
+  },
+  "donacioncierre": {
+    "title": "¡Muchas Gracias!",
+    "description": "¡Agradecemos tu donación!\n\nRecuerda que cada aporte nos ayuda a crecer y ofrecer una mejor experiencia en RenacerRP.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu ticket.",
+    "color": 16711680,
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Equipo Staff del RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "bancierre": {
+    "title": "¡Muchas Gracias!",
+    "description": "Gracias por presentar tu apelación. Tu caso ha sido documentado y será revisado detalladamente por nuestro equipo.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu ticket.",
+    "color": 16711680,
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Equipo Staff del RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "quejacierre": {
+    "title": "¡Muchas Gracias!",
+    "description": "Tu queja ha sido registrada y será investigada por el equipo correspondiente.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu ticket.",
+    "color": 16711680,
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Equipo Staff del RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "occierre": {
+    "title": "¡Muchas Gracias!",
+    "description": "Apreciamos tu interés en contribuir al dinamismo de RenacerRP a través de tu organización criminal.\n\nHemos recibido tu solicitud y la información será evaluada por el equipo encargado.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu solicitud.",
+    "color": 16711680,
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Equipo Staff del RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "ckpktcierre": {
+    "title": "¡Muchas Gracias!",
+    "description": "Apreciamos el tiempo y la dedicación que le has brindado a tu personaje dentro de RenacerRP. Esperamos que su legado perdure en los recuerdos de la comunidad. Si necesitas realizar alguna gestión adicional o tienes preguntas posteriores al cierre de este capítulo, no dudes en contactarnos.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu solicitud.",
+    "color": 16711680,
+    "thumbnail": {
+      "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Equipo Staff del RenacerRP.",
+      "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+    }
+  },
+  "POSTU STAFF": {
+    "title": "POSTULACION STAFF",
+    "description": "**Estado:**\n🔴 **-Cerradas**\n\n*Las prepostulaciones del equipo del staff estan abiertas, los que pasen se les dejara en reserva hasta la apertura del servidor.*",
+    "color": 16711680,
+    "footer": {
+      "text": "Powered By Renacer RP",
+      "icon_url": "https://i.ibb.co/VQwmtmB/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "thumbnail": {
+      "url": "https://i.ibb.co/VQwmtmB/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    }
+  },
+  "postu staff abiertas": {
+    "title": "POSTULACION STAFF",
+    "description": "**Estado:**\n🟢 **-Abiertas**\n\n*Las prepostulaciones del equipo del staff estan abiertas, los que pasen se les dejara en reserva hasta la apertura del servidor.*",
+    "thumbnail": {
+      "url": "https://i.ibb.co/VQwmtmB/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "footer": {
+      "text": "Powered By Renacer RP",
+      "icon_url": "https://i.ibb.co/VQwmtmB/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "color": 16711680
+  },
+  "POSTU STAFF OPEN": {
+    "title": "POSTULACION STAFF",
+    "description": "**Estado:**\n**🟢 -Abiertas**\n\n*Las prepostulaciones del equipo del staff estan abiertas, los que pasen se les dejara en reserva hasta la apertura del servidor.*",
+    "color": 16711680,
+    "footer": {
+      "text": "Powered By Renacer RP",
+      "icon_url": "https://i.pinimg.com/originals/ef/02/c2/ef02c2368c48668bb60ce89dbb7df5c8.png"
+    },
+    "thumbnail": {
+      "url": "https://i.pinimg.com/originals/ef/02/c2/ef02c2368c48668bb60ce89dbb7df5c8.png"
+    }
+  },
+  "NormativasCanal": {
+    "title": "Normativas - RenacerRP",
+    "description": "- **NORMATIVA GENERAL: **<a:valorAnimated_4734:1210387439395405895> \n[Click Aquí](https://docs.google.com/document/d/1l-C4X5jYlDBqGYN8-CyqNzCzhNSb2QbE_ueivw-bbQ4/edit)\n\n- **NORMATIVA BANDAS Y MAFIAS: ** <a:armao:1216425671837093999> \n[Click Aquí](https://docs.google.com/document/d/1vF5bU7cUCyqXrQi0xm8yn_ZzBk6xFjEPemELPEeIyRs/edit?usp=sharing)\n\n- **NORMATIVA POLICIA: **<a:4854_pepe_police:1209668000744218634> \n[Click Aquí](https://docs.google.com/document/d/1FbiIYwGvF0gQq0_XK-tIRp-otZ9Gr7025NGFEGv1clQ/edit)\n\n- **NORMATIVA EMS: **<:9478mediclogodepartementecarlate:1211320271202422835> \n[Click Aquí](https://docs.google.com/document/d/1KUYtzeqL0F7dJPkF3gSc_khTeO3rOnDDQ2BMPgG0LXk/edit)\n\n- **NORMATIVA NEGOCIOS: **<a:money:1216434129206378607> \n[Click Aquí](https://docs.google.com/document/d/1CThTP9RcBQj2rMYo-RCLuxDjF-sPob4Zu9IppwqwYak/edit)\n\n**Es obligatorio el conocimiento y lectura de estas normativas para acceder a la ciudad. El desconocimiento o entendimiento no te exime de ser sancionado por el incumplimiento de estas.**",
+    "image": {
+      "url": "https://i.ibb.co/MGB4svx/BANNER-CARGA-FIVEM.gif"
+    },
+    "thumbnail": {
+      "url": "https://i.ibb.co/YQmmrD9/LOGO-SIN-FONDO-CON-SOMBRA.png"
+    },
+    "color": 16711680,
+    "content": "@Ciudadano - Es obligatorio el conocimiento y lectura de estas normativas para acceder a la ciudad. El desconocimiento o entendimiento no te exime de ser sancionado por el imcumplimiento de estas."
+  }
+}

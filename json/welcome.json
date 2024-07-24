@@ -1,0 +1,27 @@
+{
+    "1202669089823129630": {
+      "imageURL": "./assets/files/img.png",
+      "channelId": "1202671893585338410",
+      
+    "message_public": {
+        "content": "",
+        "embeds": [
+            {
+              "type": "rich",
+              "title": "**Bienvenid@!**",
+              "thumbnail": {
+                "width": 640,
+                "url": "https://i.ibb.co/VQwmtmB/LOGO-SIN-FONDO-CON-SOMBRA.png",
+                "proxy_url": "https://images-ext-2.discordapp.net/external/3n54ktfJ00OPunqfA_dyYHOcMdoGe0Hl2nwwMbv07Z4/https/i.ibb.co/VQwmtmB/LOGO-SIN-FONDO-CON-SOMBRA.png",
+                "height": 591
+              },
+              "description": "Disfruta tu estancia en **El Renacer RP**!\nRecuerda **leer** nuestras **normativas** antes de comenzar con tu **aventura**!",
+              "color": 16711680,
+              "image": {
+                "url": "attachment://generated-image.png"
+              }
+            }
+          ]
+        }
+      }
+    }

@@ -1,0 +1,535 @@
+{
+  "0": {
+    "label": "Soporte General",
+    "emoji": "<:sg:1226048928991150090>",
+    "description": "Dudas generales relacionadas con el servidor.",
+    "parent": "1217130542173257748",
+    "transcriptChannel": "1222237532134047987",
+    "message_onDelete": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "¡Muchas Gracias!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Equipo Staff del RenacerRP.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "Esperamos haber sido de ayuda en tu consulta o problema. Si requieres asistencia adicional, no dudes en contactarnos nuevamente.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu solicitud.",
+          "color": 16711680
+        }
+      ]
+    },
+    "support": "1202690441192145047",
+    "message_onCreate": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "Bienvenid@!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/MtLAoov8azYPPkECViRLwsjipsjzcNl72lQ6bzzG7Q4/https/images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Powered by El Renacer.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "En breves un miembro del equipo de soporte se pondrá en contacto contigo.\n\nRecuerda proporcionarnos toda la información para resolver tu ticket a la brevedad posible.",
+          "color": 16711680
+        }
+      ]
+    },
+    "questions": [],
+    "feedbackChannel": null,
+    "number": 3
+  },
+  "1": {
+    "label": "Donación",
+    "emoji": "<:donacion:1226048931285307392>",
+    "description": "Realiza una aportación económica al servidor.",
+    "parent": "1207883720929841152",
+    "transcriptChannel": "1207884134517575710",
+    "message_onDelete": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "¡Muchas Gracias!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Equipo Staff del RenacerRP.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "¡Agradecemos tu donación!\n\nRecuerda que cada aporte nos ayuda a crecer y ofrecer una mejor experiencia en RenacerRP.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu ticket.",
+          "color": 16711680
+        }
+      ]
+    },
+    "support": "1209687457705103422",
+    "message_onCreate": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "Bienvenid@!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Powered by RenacerRP.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "Gracias por su interés en realizar una donación a RenacerRP. \n\nEs importante destacar que la donación es un acto voluntario. RenacerRP se reserva el derecho de rechazar solicitudes de reembolso. Las gratificaciones proporcionadas por su donación son meramente simbólicas y de agradecimiento.\n\nPor favor, tenga en cuenta que el mal uso de las recompensas o la violación de las normas del servidor pueden resultar en la retirada de las mismas. La administración del servidor mantiene la facultad de revocar dichas gratificaciones ante cualquier mal uso detectado.",
+          "color": 16711680
+        }
+      ]
+    },
+    "questions": [],
+    "feedbackChannel": null,
+    "number": null
+  },
+  "2": {
+    "label": "Reportar Bug",
+    "emoji": "<:bug:1226048932803645462>",
+    "description": "Reporta algun error/fallo del servidor.",
+    "parent": "1222245321283993630",
+    "transcriptChannel": "1222245399683923998",
+    "message_onCreate": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "Bienvenid@!",
+          "description": "Lamentamos que estés experimentando inconvenientes en RenacerRP.\n\nPara ayudarte a resolver este problema lo antes posible, por favor completa la siguiente información:\n\n- Descripción del bug\n- Capturas de pantalla/video (si es posible)",
+          "color": 16711680,
+          "thumbnail": {
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "width": 867,
+            "height": 800
+          },
+          "footer": {
+            "text": "Powered by RenacerRP.",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          }
+        }
+      ]
+    },
+    "message_onDelete": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "¡Muchas Gracias!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Equipo Staff del RenacerRP.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "Gracias por ayudarnos a mejorar RenacerRP reportando este inconveniente.\n\nTu reporte contribuye significativamente a la calidad de nuestro servidor y será atendido por nuestro equipo técnico.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu ticket.",
+          "color": 16711680
+        }
+      ]
+    },
+    "support": "1202699035476103228",
+    "questions": [],
+    "feedbackChannel": null
+  },
+  "3": {
+    "label": "Quejas",
+    "emoji": "<:chat:1226048925337653298>",
+    "description": "Reporta usuario(s) por rol mal ejecutado.",
+    "parent": "1222245903591542814",
+    "transcriptChannel": "1222245934759678123",
+    "message_onCreate": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "Bienvenid@!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Powered by RenacerRP.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "Si has tenido una mala experiencia dentro del servidor, queremos saberlo para aplicar la respectiva sanción. \n\nDescribe la situación con el mayor detalle posible para poder atender tu queja adecuadamente.\n\n- Queja\n- Prueba visual (video)\n\nUn staff te dará respuesta a la brevedad posible.",
+          "color": 16711680
+        }
+      ]
+    },
+    "message_onDelete": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "¡Muchas Gracias!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Equipo Staff del RenacerRP.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "Tu queja ha sido registrada y será investigada por el equipo correspondiente.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu ticket.",
+          "color": 16711680
+        }
+      ]
+    },
+    "support": "1202690441192145047",
+    "questions": [],
+    "feedbackChannel": null
+  },
+  "4": {
+    "label": "Solicitud CK/PKT",
+    "emoji": "<:poison:1226048923685228614>",
+    "description": "Realiza CK/PKT a tu personaje.",
+    "parent": "1217130387818680471",
+    "transcriptChannel": "1222246106361237655",
+    "message_onCreate": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "Bienvenid@!",
+          "description": "Para comenzar con el proceso de CK/PKT de su personaje, es necesario completar la siguiente plantilla:\n\n- Nombre del personaje (actual)\n- CK o PKT\n- Razón\n- Trabajos (incluya su rango)\n- Organización Criminal (omitir si no aplica)\n\nSu solicitud de CK/PKT será revisada para su aprobación. Una vez autorizado, el ticket permanecerá pendiente hasta recibir la prueba visual del CK/PKT. Posterior a eso, el equipo staff se encargará de realizarlo de máquina.",
+          "color": 16711680,
+          "thumbnail": {
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "width": 867,
+            "height": 800
+          },
+          "footer": {
+            "text": "Powered by ElRenacer.",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          }
+        }
+      ]
+    },
+    "message_onDelete": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "¡Muchas Gracias!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Equipo Staff del RenacerRP.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "Apreciamos el tiempo y la dedicación que le has brindado a tu personaje dentro de RenacerRP. Esperamos que su legado perdure en los recuerdos de la comunidad. Si necesitas realizar alguna gestión adicional o tienes preguntas posteriores al cierre de este capítulo, no dudes en contactarnos.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu solicitud.",
+          "color": 16711680
+        }
+      ]
+    },
+    "support": "1202690441192145047",
+    "questions": [],
+    "feedbackChannel": null,
+    "number": null
+  },
+  "5": {
+    "label": "Baneo",
+    "emoji": "<:ban:1226048921650860105>",
+    "description": "Apela tu baneo temporal.",
+    "parent": "1217130215327666328",
+    "transcriptChannel": "1222246136488923289",
+    "message_onCreate": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "Bienvenid@!",
+          "description": "Ha iniciado un procedimiento de revisión de baneo. Para proceder, es necesario que rellene la información solicitada a continuación:\n\n- ID de Baneo\n- Fecha del baneo\n- Razón del baneo\n- URL de su perfil en Steam\n\nSu caso será evaluado y se le dará una respuesta a la brevedad posible.",
+          "color": 16711680,
+          "thumbnail": {
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "width": 867,
+            "height": 800
+          },
+          "footer": {
+            "text": "Powered by RenacerRP.",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          }
+        }
+      ]
+    },
+    "message_onDelete": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "¡Muchas Gracias!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Equipo Staff del RenacerRP.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "Gracias por presentar tu apelación. Tu caso ha sido documentado y será revisado detalladamente por nuestro equipo.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu ticket.",
+          "color": 16711680
+        }
+      ]
+    },
+    "support": "1202689748120895498",
+    "questions": [
+      "ID Baneo",
+      "URL Steam"
+    ],
+    "feedbackChannel": null,
+    "number": 3
+  },
+  "6": {
+    "label": "Postulación Staff",
+    "emoji": "<:staff:1226048934624104489>",
+    "description": "Abre un ticket para postular a ser parte del equipo staff.",
+    "parent": "1222343302934822912",
+    "transcriptChannel": "1222343367334170667",
+    "support": "1208294294591504434",
+    "message_onCreate": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "Bienvenid@!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://images-ext-1.discordapp.net/external/MtLAoov8azYPPkECViRLwsjipsjzcNl72lQ6bzzG7Q4/https/images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/eEOnON0uEZ_W8-a3gU44vZDMi1dqEWUS7_KLA_NrXow/https/images-ext-1.discordapp.net/external/MtLAoov8azYPPkECViRLwsjipsjzcNl72lQ6bzzG7Q4/https/images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Powered by RenacerRP.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "Apreciamos profundamente su interés en formar parte de nuestro equipo de staff y su disposición para contribuir a la comunidad.\n\nEs fundamental entender que el acto de postular no garantiza automáticamente un lugar dentro del equipo. Este proceso inicial lo posicionará en una lista de candidatos preseleccionados para eventualmente integrarse al equipo. En el caso de que supere satisfactoriamente las evaluaciones correspondientes, quedará en condición de espera hasta la apertura del servidor. Será contactado directamente si requerimos de su colaboración.\n\nPor favor, complete el siguiente formulario para iniciar el proceso de su postulación:\n\n· Nombre:\n· Edad OOC:\n· Experiencia previa en roles de staff:\n· Horas disponibles para dedicar diariamente:\n· Ubicación geográfica:\n· Motivación para ser parte del staff:\n· Fortalezas y áreas de mejora personales:\n· Horas jugadas en FiveM (adjuntar fotografía):\n· URL de perfil en Steam:",
+          "color": 16711680
+        }
+      ]
+    },
+    "message_onDelete": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "¡Muchas Gracias!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://images-ext-1.discordapp.net/external/MtLAoov8azYPPkECViRLwsjipsjzcNl72lQ6bzzG7Q4/https/images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/eEOnON0uEZ_W8-a3gU44vZDMi1dqEWUS7_KLA_NrXow/https/images-ext-1.discordapp.net/external/MtLAoov8azYPPkECViRLwsjipsjzcNl72lQ6bzzG7Q4/https/images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Equipo staff del RenacerRP.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "Valoramos enormemente su interés en integrarse a nuestro equipo de staff y su voluntad de aportar a la comunidad.\n\nSi su evaluación resulta positiva, nos comunicaremos con usted para coordinar su colaboración cuando sea necesaria.\n\nA continuación, le proporcionamos el \"transcript\" de su ticket. Para consultar el contenido, deberá descargarlo y posteriormente abrir el archivo para revisar el desenlace de su solicitud.",
+          "color": 16711680
+        }
+      ]
+    },
+    "questions": [],
+    "feedbackChannel": null,
+    "number": 5
+  },
+  "7": {
+    "label": "Postulación Banda/Mafia",
+    "emoji": "<:oc:1226048927166631957>",
+    "description": "Postular a una organización criminal.",
+    "parent": "1217130313931558983",
+    "transcriptChannel": "1222359619628695672",
+    "message_onCreate": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "Bienvenid@!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Powered by RenacerRP.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "Estás a un paso de formar parte de la historia del crimen en nuestra ciudad. Para que podamos evaluar tu postulación, necesitamos que completes el siguiente formulario:\n\n- Historia detallada de cómo se fundó la organización\n- Objetivos a cumplir en la ciudad\n- Relación detallada con los ciudadanos\n- Historia de cada miembro\n- URL de Steam de todos los miembros\n\nSe te dará respuesta a la brevedad posible.",
+          "color": 16711680
+        }
+      ]
+    },
+    "message_onDelete": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "¡Muchas Gracias!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Equipo Staff del RenacerRP.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "Apreciamos tu interés en contribuir al dinamismo de RenacerRP a través de tu organización criminal.\n\nHemos recibido tu solicitud y la información será evaluada por el equipo encargado.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu solicitud.",
+          "color": 16711680
+        }
+      ]
+    },
+    "support": "1202730207694426113",
+    "questions": [],
+    "feedbackChannel": null
+  },
+  "8": {
+    "label": "Dudas Banda/Mafia",
+    "emoji": "<:sg:1226048928991150090>",
+    "description": "Dudas relacionadas a postulaciones.",
+    "parent": "1217130313931558983",
+    "transcriptChannel": "1222359619628695672",
+    "message_onDelete": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "¡Muchas Gracias!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Equipo Staff del RenacerRP.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "Esperamos haber sido de ayuda en tu consulta o problema. Si requieres asistencia adicional, no dudes en contactarnos nuevamente.\n\nA continuación, te proporcionamos el \"transcript\" de tu ticket. Para consultar el contenido, deberás descargarlo y posteriormente abrir el archivo para revisar el desenlace de tu solicitud.",
+          "color": 16711680
+        }
+      ]
+    },
+    "message_onCreate": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "Bienvenid@!",
+          "thumbnail": {
+            "width": 867,
+            "url": "https://i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/XsYSa0hMpXcqBwQnet-6LeL3WMUgX7yWqdvwoaFKUfY/https/i.postimg.cc/mkLwk33C/LOGO-SIN-FONDO-CON-SOMBRA.png",
+            "height": 800
+          },
+          "footer": {
+            "text": "Powered by RenacerRP.",
+            "proxy_icon_url": "https://images-ext-1.discordapp.net/external/biHtOWHV_lc2aSJlxC4jXW9jdFkCPrNIPaQ_FbxAb_0/https/i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png",
+            "icon_url": "https://i.postimg.cc/8kdvnrdg/IMAGEN-PARA-PERFIL.png"
+          },
+          "description": "Si tienes preguntas sobre cómo iniciar o gestionar tu postulación para una organización criminal, estás en el lugar adecuado. Por favor, detalla tus dudas para que podamos ofrecerte la información más precisa y ayudarte a avanzar en el proceso.",
+          "color": 16711680
+        }
+      ]
+    },
+    "support": "1202690441192145047",
+    "questions": [],
+    "feedbackChannel": null
+  },
+  "9": {
+    "label": "Ficha de PJ",
+    "emoji": null,
+    "description": "Realiza la Whitelist de tu PJ.",
+    "parent": "1250929846570324040",
+    "message_onCreate": {
+      "content": "",
+      "embeds": [
+        {
+          "type": "rich",
+          "title": "Bienvenid@ a RenacerRP!",
+          "thumbnail": {
+            "width": 4336,
+            "url": "https://i.ibb.co/tXGg9zf/LOGO-SIN-FONDO.png",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/cHvuOxL8DnME7nIaLIz7tVUHfGRsuYsBxtYkACngEDQ/https/i.ibb.co/tXGg9zf/LOGO-SIN-FONDO.png",
+            "height": 4003
+          },
+          "image": {
+            "width": 540,
+            "url": "https://i.ibb.co/rddWcrL/LOGANIM-1.gif",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/s7CdWI_4GVXLk1rsHKM3bFCNK29h36FN0c3bymULwOk/https/i.ibb.co/rddWcrL/LOGANIM-1.gif",
+            "height": 498
+          },
+          "description": "Para poder **ingresar** al servidor **rellena** los datos de la [ficha](https://docs.google.com/forms/d/e/1FAIpQLSdb-Gf3bEccQsl65dds9G02E4RGszcj1D6Q6N1P64P-l9OM8A/viewform) de PJ para poder acceder a el y tener conocimiento de tu IDP.\n\n[Click aquí para abrir el formulario.](https://docs.google.com/forms/d/e/1FAIpQLSdb-Gf3bEccQsl65dds9G02E4RGszcj1D6Q6N1P64P-l9OM8A/viewform)\n\nMuchas gracias y que disfrutes la experiencia <a:valorAnimated_4734:1210387439395405895>",
+          "color": 16711680
+        }
+      ]
+    },
+    "message_onDelete": null,
+    "support": "1250929615254585454",
+    "questions": [
+      "Correo Electrónico:",
+      "Nombre del PJ:"
+    ],
+    "feedbackChannel": null,
+    "dmTranscript": false,
+    "number": 1,
+    "transcriptChannel": "1250932791680565303"
+  }
+}
